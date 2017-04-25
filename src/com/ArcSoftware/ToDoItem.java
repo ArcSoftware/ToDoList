@@ -6,7 +6,8 @@ import java.util.ArrayList;
 /**
  * Created by Jake on 4/5/17.
  */
-public class ToDoItem {public String text;
+public class ToDoItem {
+    public String text;
     public boolean isDone;
     public Integer id;
 
